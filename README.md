@@ -1,4 +1,6 @@
 # React Google Books Search
+*** issues with Heroku Deployment***
+link to video of app working in localhost https://drive.google.com/file/d/1RkG0o_0fBLaCnaSGmW3mPH-jHLC9PSye/view, need to fix Heroku deployment
 
 ### Overview
 
